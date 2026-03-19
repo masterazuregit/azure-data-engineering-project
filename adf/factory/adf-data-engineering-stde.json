@@ -1,0 +1,9 @@
+{
+	"name": "adf-data-engineering-stde",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e347276b-1474-4908-95af-89a7e0906f4b",
+		"tenantId": "90153a2c-9983-49fc-b83f-7053b03220c4"
+	}
+}
